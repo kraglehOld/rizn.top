@@ -9,6 +9,7 @@
 }
 
 body {
+    background-color: black;
     background: url(../img/Bgr.png) no-repeat center center fixed; 
     background-size: cover;
 }
